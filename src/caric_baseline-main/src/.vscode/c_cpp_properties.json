@@ -1,0 +1,47 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lab318/ws_gen3/devel/include/**",
+        "/home/lab318/ws_cdc_gdut/devel/include/**",
+        "/home/lab318/ws_HCPP/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/lab318/ws_caric/devel/include/**",
+        "/home/lab318/ws_cdc_gdut/src/caric_baseline-main/include/**",
+        "/home/lab318/ws_cdc_gdut/src/caric_mission/include/**",
+        "/home/lab318/ws_gen3/src/ros_kortex/third_party/gazebo-pkgs/gazebo_grasp_plugin/include/**",
+        "/home/lab318/ws_gen3/src/ros_kortex/third_party/gazebo-pkgs/gazebo_version_helpers/include/**",
+        "/home/lab318/ws_cdc_gdut/src/Astar2/Astar/src/grid_path_searcher/include/**",
+        "/home/lab318/ws_cdc_gdut/src/StructuralInspectionPlanner/koptplanner/include/**",
+        "/home/lab318/ws_gen3/src/ros_kortex/kortex_driver/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/mav_lowlevel_attitude_controller/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/mav_comm/mav_msgs/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/mav_comm/mav_planning_msgs/include/**",
+        "/home/lab318/ws_HCPP/src/node_example/include/**",
+        "/home/lab318/ws_cdc_gdut/src/StructuralInspectionPlanner/optec/include/**",
+        "/home/lab318/ws_caric/src/pc_subsrciber/include/**",
+        "/home/lab318/ws_gen3/src/ros_kortex/third_party/roboticsgroup_upatras_gazebo_plugins/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/rotors_control/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/rotors_hil_interface/include/**",
+        "/home/lab318/ws_cdc_gdut/src/rotors_simulator/rotors_joy_interface/include/**",
+        "/home/lab318/ws_cdc_gdut/src/traj_gennav/include/**",
+        "/home/lab318/ws_cdc_gdut/src/unicon/include/**",
+        "/home/lab318/ws_cdc_gdut/src/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/home/lab318/ws_HCPP/src/vision_create/include/**",
+        "/home/lab318/ws_cdc_gdut/src/vision_create_new/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,13 @@
+config:
+  Filter_Para: 0.1
+
+  Normal_Radius: 8.0
+
+  Lidar_filter: 0.1
+  grid_resolution: 1.5
+  Box_x: 0.2
+  Box_y: 0.2
+  Box_z: 1.2
+
+  Fov_Min_Dis: 3.0
+  fov_distance: 2.5
